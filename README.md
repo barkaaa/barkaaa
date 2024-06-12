@@ -3,17 +3,17 @@
 **`(Developer/Gammer/Creator)`**
 <details open>
   <summary>🌐</summary>
-  <p>Hey there! I'm a Full Stack Developer currently hanging out in Tokyo, Japan. I originally majored in Digital Media Art in university, but my passion for coding led me into the tech world. I'm all about creating beautiful, well-designed products. Take a look around my profile to see what I've been working on!</p>
+  <p>Hello! I am a Full Stack Developer currently working in Tokyo, Japan. I have a university degree in Digital Media Art, and my passion for coding led me into the tech industry. I am dedicated to creating aesthetically pleasing and well-designed products. Feel free to explore my projects and contributions!</p>
 </details>
 
 <details>
   <summary>🇨🇳</summary>
-  <p>你好！我是一个全栈开发人员，现在在日本东京工作。我大学时主修数字媒体艺术，但对编程的兴趣把我带进了这个行业。我喜欢开发有美感和设计感的产品。随便看看我的项目和贡献吧！</p>
+  <p>你好！我是一名全栈开发人员，目前在日本东京从事开发工作。我大学主修数字媒体艺术，对编程的兴趣把我带进了这个行业。我致力于开发有美感和设计感的产品。欢迎浏览我的项目和贡献！</p>
 </details>
 
 <details>
   <summary>🇯🇵</summary>
-  <p>こんにちは！私は現在東京にいるフルスタック開発者です。大学ではデジタルメディアアートを専攻しましたが、プログラミングへの情熱が私をこの業界に導きました。美しくデザインされた製品を作るのが大好きです。私のプロジェクトと貢献をぜひ見ていってください！</p>
+  <p>こんにちは！私はフルスタック開発者で、現在日本の東京で働いています。大学ではデジタルメディアアートを専攻しましたが、プログラミングへの情熱が私をこの業界に導きました。美しくデザインされた製品の開発に力を注いでいます。私のプロジェクトと貢献をぜひご覧ください！</p>
 </details>
 
 ---
